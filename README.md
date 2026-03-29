@@ -25,8 +25,6 @@ Hei! Jeg er Fredrik
 ## 🔧 Akkurat nå jobber jeg med
 
 - Videreutvikling av NBA ML-modellen (mer data + bedre treningspipeline)
-- Lærer meg mer om dyp læring og nevrale nettverk
-- Bygger opp en solid prosjektportefølje gjennom studiene
 
 ---
 
