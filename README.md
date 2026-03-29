@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="profilbilde.jpg" alt="Fredrik Almnes" width="180" style="border-radius: 50%;" />
-</p>
-
 # Fredrik Almnes 👋
-
+p align="center">
+  <img src="profilbilde.jpg" alt="Fredrik Almnes" width="250" style="border-radius: 50%;" />
+</p>
 Hei! Jeg er Fredrik
 
 🎓 Masterstudent i datateknologi @ NTNU (Trondheim) — startet 2025
