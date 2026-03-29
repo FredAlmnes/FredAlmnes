@@ -1,5 +1,5 @@
 # Fredrik Almnes 👋
-p align="center">
+<p> align="center">
   <img src="profilbilde.jpg" alt="Fredrik Almnes" width="250" style="border-radius: 50%;" />
 </p>
 Hei! Jeg er Fredrik
