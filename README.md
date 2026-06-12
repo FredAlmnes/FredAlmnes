@@ -16,14 +16,15 @@ Hei! Jeg er Fredrik
 
 | Prosjekt | Beskrivelse | Teknologier | Lenke |
 |---|---|---|---|
-| NBA ML Betting | ML-modell som predikerer utfall i NBA-kamper og foreslår value bets | Python, scikit-learn, Pandas | [GitHub](https://github.com/FredAlmnes/Nba-ML-betting) |
 | Kort Forklart | Webapp for å lære fag ved NTNU raskere. Multiple-choice-oppgaver + AI-forklaringer og chat. | Next.js, React, Vercel, TypeScript, Supabase, OpenAI API | [Kort-forklart.no](https://kort-forklart.vercel.app/) |
+| NBA ML Betting | ML-modell som predikerer utfall i NBA-kamper og foreslår value bets | Python, scikit-learn, Pandas | [GitHub](https://github.com/FredAlmnes/Nba-ML-betting) |
 | Wallstreet App | Nettside til kollektivet | JavaScript | [GitHub](https://github.com/FredAlmnes/wallstreet-app) |
 
 ---
 
 ## 🔧 Akkurat nå jobber jeg med
 
+- Jobber med Kort Forklart for å forbedre AI forklaringer og utbre pensumlisten
 - Videreutvikling av NBA ML-modellen (mer data + bedre treningspipeline)
 
 ---
