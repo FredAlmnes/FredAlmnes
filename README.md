@@ -17,7 +17,7 @@ Hei! Jeg er Fredrik
 | Prosjekt | Beskrivelse | Teknologier | Lenke |
 |---|---|---|---|
 | NBA ML Betting | ML-modell som predikerer utfall i NBA-kamper og foreslår value bets | Python, scikit-learn, Pandas | [GitHub](https://github.com/FredAlmnes/Nba-ML-betting) |
-| Nottveit Holding AS | Nettside for å stemme frem hvem som fortjener en promosjon | TypeScript | [GitHub](https://github.com/FredAlmnes/Nottveit-Holding-AS) |
+| Kort Forklart | Webapp for å lære fag ved NTNU raskere. Multiple-choice-oppgaver + AI-forklaringer og chat. | Next.js, React, Vercel, TypeScript, Supabase, OpenAI API | Kort-forklart.no |
 | Wallstreet App | Nettside til kollektivet | JavaScript | [GitHub](https://github.com/FredAlmnes/wallstreet-app) |
 
 ---
