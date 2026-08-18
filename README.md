@@ -10,6 +10,8 @@ Hei! Jeg er Fredrik
 
 🌱 Alltid på jakt etter nye prosjekter der data og teknologi møtes
 
+[Personlig portefølje]*(https://personlig-portefolje.vercel.app/)*
+
 ---
 
 ## 🚀 Prosjekter
