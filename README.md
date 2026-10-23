@@ -21,6 +21,7 @@ Hei! Jeg er Fredrik
 | Kort Forklart | Webapp for å lære fag ved NTNU raskere. Multiple-choice-oppgaver + AI-forklaringer og chat. | Next.js, React, Vercel, TypeScript, Supabase, OpenAI API | [Kort-forklart.no](https://kort-forklart.vercel.app/) |
 | NBA ML Betting | ML-modell som predikerer utfall i NBA-kamper og foreslår value bets | Python, scikit-learn, Pandas | [GitHub](https://github.com/FredAlmnes/Nba-ML-betting) |
 | KryptoTracker | Live kryptokurser med candlestick-grafer, indikatorer (SMA, EMA, RSI, FVG) og backtesting av kjøps-/short-signaler | React, TypeScript, Vite, Binance API | [GitHub](https://github.com/FredAlmnes/Kryptotracker) |
+| IpadHub | Alltid-på infoskjerm for iPad hjemme: klokke, bussavganger, vær, kalender og e-post som AI flagger for oppfølging | React, TypeScript, Vite, Hono, Cloudflare Workers + D1 | [GitHub](https://github.com/FredAlmnes/IpadHub) |
 
 ---
 
@@ -28,6 +29,7 @@ Hei! Jeg er Fredrik
 
 - Jobber med Kort Forklart for å forbedre AI forklaringer og utbre pensumlisten
 - Videreutvikling av NBA ML-modellen (mer data + bedre treningspipeline)
+- Bygger IpadHub: buss, vær, kalender og AI-flagget e-post på en iPad-skjerm hjemme
 
 ---
 
