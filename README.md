@@ -10,7 +10,7 @@ Hei! Jeg er Fredrik
 
 🌱 Alltid på jakt etter nye prosjekter der data og teknologi møtes
 
-**[Personlig portefølje](fredrikalmnes.no)**
+**[Personlig portefølje](https://fredrikalmnes.no)**
 
 ---
 
